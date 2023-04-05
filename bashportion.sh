@@ -1,4 +1,6 @@
 #!/bin/bash
+#Atomcoordinates-Assignment7
+#Liann Aris-Henry-04/04/2023
 fn=$1
 if [ "$fn" == '' ] || [ ${fn##*.} != 'pbd' ]
 then
